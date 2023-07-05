@@ -36,37 +36,37 @@ const navType = {
 const navConfigs = [
   {
     key: navType.github,
-    label: '开源地址',
+    label: 'Source',
     url: 'https://github.com/adams549659584/go-proxy-bingai',
   },
   {
     key: navType.version,
-    label: '版本信息',
+    label: 'Version',
   },
   {
     key: navType.chatService,
-    label: '服务选择',
+    label: 'ChatService',
   },
   {
     key: navType.promptStore,
-    label: '提示词库',
+    label: 'PromptStore',
   },
   {
     key: navType.setToken,
-    label: '设置用户',
+    label: 'ApiToken',
   },
   {
     key: navType.compose,
-    label: '撰写文章',
+    label: 'viết một tiêu đề',
     url: '/web/compose.html',
   },
   {
     key: navType.createImage,
-    label: '图像创建',
+    label: 'tạo hình ảnh',
   },
   {
     key: navType.reset,
-    label: '一键重置',
+    label: 'Đặt lại một phím',
   },
 ];
 
