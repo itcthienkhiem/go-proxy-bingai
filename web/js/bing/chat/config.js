@@ -5,7 +5,7 @@ _w['_sydConvConfig'] = {
   enableSydTigerAns: true,
   enableTigerEnhancedPrompt: false,
   tigerEnhancedPromptTemplate:
-    '搜索 {0}。用一个出色的回答给我留下深刻的印象，帮助我完成我最可能的意图，同时展示你所能提供的智慧、深度和美感（加粗、表格和引用）。尽量在回答中尽早满足我的意图。',
+    'Tìm kiếm {0}. Hãy gây ấn tượng với tôi bằng một câu trả lời xuất sắc giúp tôi đạt được những ý định có thể xảy ra nhất của mình đồng thời thể hiện sự thông minh, chiều sâu và vẻ đẹp mà bạn cung cấp (in đậm, bảng biểu và trích dẫn). Cố gắng đáp ứng ý định của tôi càng sớm càng tốt trong câu trả lời.',
   enableDlBing: false,
   // 不可滚动出聊天
   enableScrollOut: false,
